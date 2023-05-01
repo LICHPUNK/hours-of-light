@@ -1,5 +1,5 @@
 ## HOURS OF LIGHT
-by [LICHPUNK](https://github.com/LICHPUNK) & Limnull
+by [LICHPUNK](https://github.com/LICHPUNK) & [iriveros](https://github.com/iriveros)
 
 <br/>
 
